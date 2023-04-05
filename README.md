@@ -1,2 +1,3 @@
 # Python-Selenium-for-Automation-testing
-This project wazs built for recieving expected format for tunneling in Q-GIS.
+This was designed for Automation UI testing using PYTHON-SELENIUM binding.
+ 
